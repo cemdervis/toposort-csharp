@@ -2,6 +2,8 @@
 
 An easy to use topological sorting library for C# with support for cyclic dependency checking.
 
+If you're looking for a C++ version of this library, check it out [here](https://github.com/cemdervis/toposort-cpp).
+
 The library consists of a single file (TopoSort.cs), which is intended to be drag-and-dropped into your project.
 
 Usage:
